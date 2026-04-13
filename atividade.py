@@ -9,3 +9,9 @@ j = 1
 while j <= 10:
 print(j)
 j += 1
+
+#atividade 3
+l = 10
+while l<=1
+print(l)
+j += 10
